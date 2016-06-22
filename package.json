@@ -1,0 +1,28 @@
+{
+  "name": "kodilla-project-vietnam",
+  "version": "1.0.0",
+  "description": "example grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandra-zaniewska/project-vietnam.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Sandra Zaniewska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandra-zaniewska/project-vietnam/issues"
+  },
+  "homepage": "https://github.com/sandra-zaniewska/project-vietnam#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.0"
+  }
+}
